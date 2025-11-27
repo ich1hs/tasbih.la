@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tasbih.la</string>
+    <string name="prayer_widget_description">Shows prayer times with next prayer countdown</string>
+    <string name="tasbih_widget_description">Shows your total zikr count</string>
+</resources>
