@@ -43,3 +43,21 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Build outputs / APKs
+*.apk
+*.aab
+*.ipa
+*.app
+
+# Release artifacts (use GitHub Releases instead)
+/releases/
+
+# IDE
+.vscode/
+*.code-workspace
+
+# Misc
+*.log
+.flutter-plugins
+.flutter-plugins-dependencies
