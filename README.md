@@ -2,10 +2,6 @@
 
 A beautiful digital tasbih (prayer counter) app built with Flutter.
 
-<p align="center">
-  <img src="docs/screenshots/flutter_01.png" alt="Tasbih.la Screenshot" width="300"/>
-</p>
-
 ## Features
 
 - **Counter** — Tap anywhere to count, with smooth animations and haptic feedback
